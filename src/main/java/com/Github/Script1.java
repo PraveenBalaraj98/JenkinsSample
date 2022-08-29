@@ -5,6 +5,6 @@ public class Script1 {
 		System.out.println("This is my sample project");
 		System.out.println("This is Praveen, done with my assigned work");
 		System.out.println("On my weekend");
-		//System.out.println("This is Praveen, please review");
+		System.out.println("This is Praveen, please review");
 	}
 }

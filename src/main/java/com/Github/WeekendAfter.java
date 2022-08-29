@@ -1,6 +1,6 @@
 package com.Github;
 
-public class WEEKENDcLASS {
+public class WeekendAfter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,6 +12,7 @@ public class WEEKENDcLASS {
 		System.out.println("rest class");
 		System.out.println("dinner class");
 		System.out.println("zzzzzzzz...");
+		System.out.println("Plan motivation monday");
 		
 	}
 
